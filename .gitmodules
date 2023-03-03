@@ -1,0 +1,3 @@
+[submodule "techworld-with-nana-nodejs-app-monitoring"]
+	path = techworld-with-nana-nodejs-app-monitoring
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-nodejs-app-monitoring.git
